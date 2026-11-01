@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\check\\project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67BFA382-F52E-4AAE-ACF2-FC60919D2A81}|project\\project.csproj|c:\\users\\lenovo\\desktop\\check\\project\\project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BFA382-F52E-4AAE-ACF2-FC60919D2A81}|project\\project.csproj|solutionrelative:project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BFA382-F52E-4AAE-ACF2-FC60919D2A81}|project\\project.csproj|c:\\users\\lenovo\\desktop\\check\\project\\project\\port.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BFA382-F52E-4AAE-ACF2-FC60919D2A81}|project\\project.csproj|solutionrelative:project\\port.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BFA382-F52E-4AAE-ACF2-FC60919D2A81}|project\\project.csproj|c:\\users\\lenovo\\desktop\\check\\project\\project\\shipdata\\shipdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BFA382-F52E-4AAE-ACF2-FC60919D2A81}|project\\project.csproj|solutionrelative:project\\shipdata\\shipdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BFA382-F52E-4AAE-ACF2-FC60919D2A81}|project\\project.csproj|c:\\users\\lenovo\\desktop\\check\\project\\project\\menus( displaying menus)\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BFA382-F52E-4AAE-ACF2-FC60919D2A81}|project\\project.csproj|solutionrelative:project\\menus( displaying menus)\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BFA382-F52E-4AAE-ACF2-FC60919D2A81}|project\\project.csproj|c:\\users\\lenovo\\desktop\\check\\project\\project\\menus( displaying menus)\\officer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BFA382-F52E-4AAE-ACF2-FC60919D2A81}|project\\project.csproj|solutionrelative:project\\menus( displaying menus)\\officer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BFA382-F52E-4AAE-ACF2-FC60919D2A81}|project\\project.csproj|c:\\users\\lenovo\\desktop\\check\\project\\project\\menus( displaying menus)\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BFA382-F52E-4AAE-ACF2-FC60919D2A81}|project\\project.csproj|solutionrelative:project\\menus( displaying menus)\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BFA382-F52E-4AAE-ACF2-FC60919D2A81}|project\\project.csproj|c:\\users\\lenovo\\desktop\\check\\project\\project\\port manager (logics)\\portmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BFA382-F52E-4AAE-ACF2-FC60919D2A81}|project\\project.csproj|solutionrelative:project\\port manager (logics)\\portmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BFA382-F52E-4AAE-ACF2-FC60919D2A81}|project\\project.csproj|c:\\users\\lenovo\\desktop\\check\\project\\project\\filemanagement (handling)\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BFA382-F52E-4AAE-ACF2-FC60919D2A81}|project\\project.csproj|solutionrelative:project\\filemanagement (handling)\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "shipData.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\check\\project\\project\\ShipData\\shipData.cs",
+              "RelativeDocumentMoniker": "project\\ShipData\\shipData.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\check\\project\\project\\ShipData\\shipData.cs",
+              "RelativeToolTip": "project\\ShipData\\shipData.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T12:40:48.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\check\\project\\project\\FileManagement (Handling)\\FileManager.cs",
+              "RelativeDocumentMoniker": "project\\FileManagement (Handling)\\FileManager.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\check\\project\\project\\FileManagement (Handling)\\FileManager.cs",
+              "RelativeToolTip": "project\\FileManagement (Handling)\\FileManager.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAcwGwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T12:36:43.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PortManager.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\check\\project\\project\\Port Manager (logics)\\PortManager.cs",
+              "RelativeDocumentMoniker": "project\\Port Manager (logics)\\PortManager.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\check\\project\\project\\Port Manager (logics)\\PortManager.cs",
+              "RelativeToolTip": "project\\Port Manager (logics)\\PortManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T12:36:27.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\check\\project\\project\\Menus( Displaying Menus)\\Employee.cs",
+              "RelativeDocumentMoniker": "project\\Menus( Displaying Menus)\\Employee.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\check\\project\\project\\Menus( Displaying Menus)\\Employee.cs",
+              "RelativeToolTip": "project\\Menus( Displaying Menus)\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T12:36:08.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Officer.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\check\\project\\project\\Menus( Displaying Menus)\\Officer.cs",
+              "RelativeDocumentMoniker": "project\\Menus( Displaying Menus)\\Officer.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\check\\project\\project\\Menus( Displaying Menus)\\Officer.cs",
+              "RelativeToolTip": "project\\Menus( Displaying Menus)\\Officer.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAYwLIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T12:35:55.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Port.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\check\\project\\project\\Port.cs",
+              "RelativeDocumentMoniker": "project\\Port.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\check\\project\\project\\Port.cs",
+              "RelativeToolTip": "project\\Port.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T12:05:21.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\check\\project\\project\\Menus( Displaying Menus)\\Admin.cs",
+              "RelativeDocumentMoniker": "project\\Menus( Displaying Menus)\\Admin.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\check\\project\\project\\Menus( Displaying Menus)\\Admin.cs",
+              "RelativeToolTip": "project\\Menus( Displaying Menus)\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T09:57:40.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\check\\project\\project\\Program.cs",
+              "RelativeDocumentMoniker": "project\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\check\\project\\project\\Program.cs",
+              "RelativeToolTip": "project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T06:30:21.866Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
