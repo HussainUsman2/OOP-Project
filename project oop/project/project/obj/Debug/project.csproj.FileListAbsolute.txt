@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\check\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\check\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\check\project\project\bin\Debug\project.exe.config
+C:\Users\LENOVO\Desktop\check\project\project\bin\Debug\project.exe
+C:\Users\LENOVO\Desktop\check\project\project\bin\Debug\project.pdb
+C:\Users\LENOVO\Desktop\check\project\project\obj\Debug\project.exe
+C:\Users\LENOVO\Desktop\check\project\project\obj\Debug\project.pdb
+C:\Users\LENOVO\Desktop\project oop\project\project\bin\Debug\project.exe.config
+C:\Users\LENOVO\Desktop\project oop\project\project\bin\Debug\project.exe
+C:\Users\LENOVO\Desktop\project oop\project\project\bin\Debug\project.pdb
+C:\Users\LENOVO\Desktop\project oop\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\project oop\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\project oop\project\project\obj\Debug\project.exe
+C:\Users\LENOVO\Desktop\project oop\project\project\obj\Debug\project.pdb
